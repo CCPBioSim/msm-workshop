@@ -1,4 +1,4 @@
-# Markov State Modelling Workshop
+# Markov State Modelling Workshop May 2019
 
 
 ### Aimed at: 
